@@ -42,6 +42,12 @@ If you prefer to use the pre-built Docker image, you can pull it directly from D
     ```bash
     docker pull bijeeta/chat_bot:Chat_Bot 
     ```
+## Colab notebook documentation on the pipeline and deployment instructions
+
+The repository includes a notebook version and contains documentation on how users can upload files, ask questions, and view the bot's responses, as well as a user guide on how to utilize it.   
+
+Link to the Notebook - https://colab.research.google.com/drive/1kWag9hjOMnOFzIMggFWS_j2POfmV_N2M?usp=sharing
+Documnents - https://drive.google.com/drive/folders/1NivM22aS1M0a4-Iu29z74Qr-Mq03pQzC?usp=sharing
 
 2. Run the Docker container:
     ```bash
