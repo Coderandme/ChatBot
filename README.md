@@ -30,8 +30,8 @@ Note: Ensure you have active API keys from both Hugging Face and Pinecone to use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Coderandme/Chat_Bot.git
-    cd chat_Bot
+    git clone https://github.com/Coderandme/ChatBot.git
+    cd chatBot
     ```
 
 ### Option 2: Pull Pre-built Docker Image
