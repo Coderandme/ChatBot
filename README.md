@@ -1,5 +1,5 @@
 ## Project Overview:
-This project extends the capabilities of the chatbot by integrating a frontend interface using Streamlit for user interaction. It allows users to upload documents (PDF, text, or Word files), which the chatbot processes and uses to answer user queries. The chatbot uses Pinecone for document retrieval and Hugging Face's models for generating concise and relevant responses based on uploaded content.
+This project extends the capabilities of the chatbot by integrating a frontend interface using Streamlit for user interaction. It allows users to upload documents (PDF, text, or Word files), which the chatbot processes and uses to answer user queries. The chatbot uses Pinecone for data retrieval and Hugging Face's models for generating concise and relevant responses based on uploaded content.
 
 ## Key Features:
 1. Ability to upload documents (PDF, Word, and text).
